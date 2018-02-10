@@ -1,0 +1,11 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\bin\Debug\netcoreapp2.0\NeelSessionExample.deps.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\bin\Debug\netcoreapp2.0\NeelSessionExample.runtimeconfig.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\bin\Debug\netcoreapp2.0\NeelSessionExample.runtimeconfig.dev.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\bin\Debug\netcoreapp2.0\NeelSessionExample.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\bin\Debug\netcoreapp2.0\NeelSessionExample.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.csprojResolveAssemblyReference.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.csproj.CoreCompileInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.AssemblyInfoInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.AssemblyInfo.cs
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelSessionExample\NeelSessionExample\obj\Debug\netcoreapp2.0\NeelSessionExample.pdb
